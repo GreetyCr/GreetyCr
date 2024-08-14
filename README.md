@@ -9,8 +9,8 @@ I'm a Frontend Developer with a passion for creating dynamic and responsive web 
 
 ## Projects
 - [Budget Tracker](https://github.com/GreetyCr/budget-tracker)
-- [Netflix Clone](https://github.com/GreetyCr/netflix-clone)
-- [Parmesano Landing Page]([https://github.com/GreetyCr/parmesano-landing-page](https://www.parmesano.org/] )
+- [Netflix Clone](https://netflix-clone-tw-git-main-greetycr.vercel.app/login)
+- [Parmesano Landing Page](https://www.parmesano.org/)
 
 ## Get in Touch
 - [Portfolio](https://greetycr.github.io/Greety-Portfolio/#)
